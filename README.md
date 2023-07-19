@@ -14,7 +14,7 @@ our tools require
 
 - sortedcontainers
 
-- cdd (for polyhedral computations)
+- cdd (for polyhedral computations; install via `pip install pycddlib`)
 
 and
 
